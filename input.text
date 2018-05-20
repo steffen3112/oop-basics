@@ -1,0 +1,2 @@
+Here is the sample text which is transformed to upper-case by a IO-Decorator
+-> See src/decoratorPattern/javaIO/*
